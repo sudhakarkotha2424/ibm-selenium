@@ -2,24 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="18223" started-at="2019-11-30T16:34:21 CST" finished-at="2019-11-30T16:34:39 CST">
+  <suite name="Default suite" duration-ms="29528" started-at="2019-12-04T20:43:23 CST" finished-at="2019-12-04T20:43:52 CST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="18223" started-at="2019-11-30T16:34:21 CST" finished-at="2019-11-30T16:34:39 CST">
-      <class name="com.project.uniform.test.UNF_039Allows_admin_to_Edit_Metatag">
-        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.project.uniform.test.UNF_039Allows_admin_to_Edit_Metatag@32709393]" name="setUpBeforeClass" is-config="true" duration-ms="14" started-at="2019-11-30T16:34:21 CST" finished-at="2019-11-30T16:34:21 CST">
+    <test name="Default test" duration-ms="29528" started-at="2019-12-04T20:43:23 CST" finished-at="2019-12-04T20:43:52 CST">
+      <class name="com.project.uniform.test.UNF_084Product_details_get_displayed_in_home_screen">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.project.uniform.test.UNF_084Product_details_get_displayed_in_home_screen@22a67b4]" name="setUpBeforeClass" is-config="true" duration-ms="15" started-at="2019-12-04T20:43:23 CST" finished-at="2019-12-04T20:43:23 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpBeforeClass -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.project.uniform.test.UNF_039Allows_admin_to_Edit_Metatag@32709393]" name="setUp" is-config="true" duration-ms="12096" started-at="2019-11-30T16:34:21 CST" finished-at="2019-11-30T16:34:33 CST">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.project.uniform.test.UNF_084Product_details_get_displayed_in_home_screen@22a67b4]" name="setUp" is-config="true" duration-ms="11765" started-at="2019-12-04T20:43:23 CST" finished-at="2019-12-04T20:43:35 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="validLoginTest()[pri:0, instance:com.project.uniform.test.UNF_039Allows_admin_to_Edit_Metatag@32709393]" name="validLoginTest" duration-ms="6070" started-at="2019-11-30T16:34:33 CST" finished-at="2019-11-30T16:34:39 CST">
+        <test-method status="PASS" signature="validLoginTest()[pri:0, instance:com.project.uniform.test.UNF_084Product_details_get_displayed_in_home_screen@22a67b4]" name="validLoginTest" duration-ms="6785" started-at="2019-12-04T20:43:35 CST" finished-at="2019-12-04T20:43:41 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLoginTest -->
-      </class> <!-- com.project.uniform.test.UNF_039Allows_admin_to_Edit_Metatag -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.uniform.test.UNF_084Product_details_get_displayed_in_home_screen@22a67b4]" name="tearDown" is-config="true" duration-ms="10906" started-at="2019-12-04T20:43:41 CST" finished-at="2019-12-04T20:43:52 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.project.uniform.test.UNF_084Product_details_get_displayed_in_home_screen -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

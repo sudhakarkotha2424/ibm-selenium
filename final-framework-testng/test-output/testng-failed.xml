@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.project.uniform.test.UNF_039Allows_admin_to_Edit_Metatag">
+      <class name="com.project.uniform.test.UNF_040Allows_admin_to_Delete_Multi_catg">
         <methods>
-          <include name="setUpBeforeClass"/>
           <include name="setUp"/>
+          <include name="setUpBeforeClass"/>
           <include name="validLoginTest"/>
         </methods>
-      </class> <!-- com.project.uniform.test.UNF_039Allows_admin_to_Edit_Metatag -->
+      </class> <!-- com.project.uniform.test.UNF_040Allows_admin_to_Delete_Multi_catg -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
